@@ -6,6 +6,8 @@
  * @flow strict-local
  */
 
+import 'react-native-reanimated'
+
 import React from 'react';
 
 import { SignUp } from "./screens";
